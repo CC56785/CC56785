@@ -1,4 +1,4 @@
-# Hi, I'm CC
+# Hi, I'm Christian Ilzhöfer
 
 I'm a Computer Science student with many interests, such as systems programming, compilers, and performance-oriented software.
 
