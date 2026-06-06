@@ -5,7 +5,8 @@ I'm a Computer Science student with many interests, such as systems programming,
 ## My Coolest Projects
 
 ### CPU & Compiler
-Designed a custom CPU architecture in a logic simulator ([digital logic sim](https://github.com/SebLague/Digital-Logic-Sim)) and implemented a compiler targeting its instruction set ([repo](https://github.com/CC56785/Logic_Sim_8-Bit_CPU)).
+Designed a custom CPU architecture in a logic simulator ([digital logic sim](https://github.com/SebLague/Digital-Logic-Sim)) and implemented a compiler targeting its instruction set.
+Using these Tools, I created a basic Snake Game for it ([repo](https://github.com/CC56785/Logic_Sim_8-Bit_CPU)).
 
 ### Fluid Simulator
 Implemented a basic real-time fluid simulation in Java ([repo](https://github.com/CC56785/Fluidsimulator)).
